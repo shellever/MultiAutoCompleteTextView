@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiAutoCompleteTextView</string>
+    <string name="text_hint">Type something here.</string>
+</resources>

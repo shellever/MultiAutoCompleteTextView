@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="onepiece">
+        <item>Luffy</item>
+        <item>Zoro</item>
+        <item>Usopp</item>
+        <item>Sanji</item>
+        <item>Nami</item>
+        <item>Chopper</item>
+        <item>Robin</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Jimbei</item>
+    </string-array>
+
+    <string-array name="onepiece_cn">
+        <item>路飞</item>
+        <item>索隆</item>
+        <item>乌索普</item>
+        <item>香吉士</item>
+        <item>娜美</item>
+        <item>乔巴</item>
+        <item>罗宾</item>
+        <item>弗兰奇</item>
+        <item>布鲁克</item>
+        <item>甚平</item>
+    </string-array>
+
+    <string-array name="mail_box_postfix">
+        <item>qq.com</item>
+        <item>163.com</item>
+        <item>126.com</item>
+        <item>outlook.com</item>
+        <item>aliyun.com</item>
+        <item>sina.com</item>
+        <item>gmail.com</item>
+        <item>139.com</item>
+        <item>189.cn</item>
+        <item>hotmail.com</item>
+        <item>foxmail.com</item>
+        <item>yeah.net</item>
+        <item>21cn.com</item>
+    </string-array>
+</resources>
