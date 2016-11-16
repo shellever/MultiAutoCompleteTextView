@@ -27,7 +27,9 @@ private void setupCommaTokenizerTextView() {
 首先CommaTokenizer是定义在MultiAutoCompleteTextView中的内部public类，实现了Tokenizer接口中的三个方法：
 
 **findTokenStart()** - 用于查找当前光标位置之前的分隔符的位置并返回
+
 **findTokenEnd()** - 用于查找当前光标位置之后的分隔符的位置并返回
+
 **terminateToken()** - 用于返回提示信息加上分隔符后的文本内容
 
 CommaTokenizer源代码注释分析如下：
